@@ -29,7 +29,8 @@ C can be placed before D (500) and M (1000) to make 400 and 900.
 Given a roman numeral, convert it to an integer.
 
 Results:
-
+Runtime: 44 ms, faster than 78.80% of Python3 online submissions for Roman to Integer.
+Memory Usage: 14.1 MB, less than 83.30% of Python3 online submissions for Roman to Integer.
 """
 
 
